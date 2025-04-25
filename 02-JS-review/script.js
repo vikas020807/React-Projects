@@ -306,5 +306,3 @@ async function getTodos() {
 
 const todos = getTodos();
 console.log(todos);
-
-console.log("vikas");
